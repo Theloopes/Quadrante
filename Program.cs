@@ -45,3 +45,4 @@ Console.ResetColor();
 Console.Write(") fica no");
 Console.ForegroundColor = ConsoleColor.Yellow;
 Console.WriteLine($"{localizacao}");
+Console.ResetColor();
