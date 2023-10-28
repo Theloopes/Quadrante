@@ -25,7 +25,6 @@ else if (Y > 0)
         localizacao = " Quadrante 1";
     else    
         localizacao = " Quadrante 2";
-    
 }
 else 
 {
